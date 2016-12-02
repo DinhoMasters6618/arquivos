@@ -638,6 +638,7 @@
   animation-delay: 26s;
 }
 
+
 .gallery .control-button {
   color: #ccc;
   color: rgba(255, 255, 255, 0.4);
@@ -651,32 +652,27 @@
 /*
 	Theme controls how everything looks in Gallery CSS.
 */
-
 .gallery {
   position: relative;
 }
-
 .gallery .item {
   height: 400px;
   overflow: hidden;
+  color: #fff;
   text-align: center;
   background: #4d87e2;
 }
-
 .gallery .controls {
   position: absolute;
   bottom: 0;
   width: 100%;
   text-align: center;
 }
-
 .gallery .control-button {
   display: inline-block;
   margin: 0 .02em;
   font-size: 3em;
   text-align: center;
   text-decoration: none;
-  -webkit-transition: color .1s;
-  -o-transition: color .1s;
   transition: color .1s;
 }
