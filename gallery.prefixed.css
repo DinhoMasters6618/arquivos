@@ -656,9 +656,9 @@
   position: relative;
 }
 .gallery .item {
+  color: #FFF;
   height: 400px;
   overflow: hidden;
-  color: #fff;
   text-align: center;
   background: #4d87e2;
 }
