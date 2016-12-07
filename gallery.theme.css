@@ -19,7 +19,7 @@
   height: 400px;
   overflow: hidden;
   text-align: center;
-  background: url('https://lh3.googleusercontent.com/-xH5kh4jFYoQ/WEhWpHEr3oI/AAAAAAAAAQc/G3hzHEE4HWA3_dYEtBwF-LOm_QpoXK1tgCLcB/s1600/background.gif') repeat-x;
+  background: url(https://lh3.googleusercontent.com/-xH5kh4jFYoQ/WEhWpHEr3oI/AAAAAAAAAQc/G3hzHEE4HWA3_dYEtBwF-LOm_QpoXK1tgCLcB/s1600/background.gif);
 }
 .gallery .controls {
   position: absolute;
