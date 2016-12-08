@@ -154,15 +154,15 @@
 }
 
 .items-2.autoplay .control-button {
-  -webkit-animation: controlAnimation-2 14s infinite;
-  -o-animation: controlAnimation-2 14s infinite;
-  animation: controlAnimation-2 14s infinite;
+  -webkit-animation: controlAnimation-2 19s infinite;
+  -o-animation: controlAnimation-2 19s infinite;
+  animation: controlAnimation-2 19s infinite;
 }
 
 .items-2.autoplay .item {
-  -webkit-animation: galleryAnimation-2 14s infinite;
-  -o-animation: galleryAnimation-2 14s infinite;
-  animation: galleryAnimation-2 14s infinite;
+  -webkit-animation: galleryAnimation-2 19s infinite;
+  -o-animation: galleryAnimation-2 19s infinite;
+  animation: galleryAnimation-2 19s infinite;
 }
 
 .items-2 .control-button:nth-of-type(1),
@@ -288,15 +288,15 @@
 }
 
 .items-3.autoplay .control-button {
-  -webkit-animation: controlAnimation-3 21s infinite;
-  -o-animation: controlAnimation-3 21s infinite;
-  animation: controlAnimation-3 21s infinite;
+  -webkit-animation: controlAnimation-3 26s infinite;
+  -o-animation: controlAnimation-3 26s infinite;
+  animation: controlAnimation-3 26s infinite;
 }
 
 .items-3.autoplay .item {
-  -webkit-animation: galleryAnimation-3 21s infinite;
-  -o-animation: galleryAnimation-3 21s infinite;
-  animation: galleryAnimation-3 21s infinite;
+  -webkit-animation: galleryAnimation-3 26s infinite;
+  -o-animation: galleryAnimation-3 26s infinite;
+  animation: galleryAnimation-3 26s infinite;
 }
 
 .items-3 .control-button:nth-of-type(1),
@@ -434,15 +434,15 @@
 }
 
 .items-4.autoplay .control-button {
-  -webkit-animation: controlAnimation-4 28s infinite;
-  -o-animation: controlAnimation-4 28s infinite;
-  animation: controlAnimation-4 28s infinite;
+  -webkit-animation: controlAnimation-4 33s infinite;
+  -o-animation: controlAnimation-4 33s infinite;
+  animation: controlAnimation-4 33s infinite;
 }
 
 .items-4.autoplay .item {
-  -webkit-animation: galleryAnimation-4 28s infinite;
-  -o-animation: galleryAnimation-4 28s infinite;
-  animation: galleryAnimation-4 28s infinite;
+  -webkit-animation: galleryAnimation-4 33s infinite;
+  -o-animation: galleryAnimation-4 33s infinite;
+  animation: galleryAnimation-4 33s infinite;
 }
 
 .items-4 .control-button:nth-of-type(1),
@@ -592,15 +592,15 @@
 }
 
 .items-5.autoplay .control-button {
-  -webkit-animation: controlAnimation-5 35s infinite;
-  -o-animation: controlAnimation-5 35s infinite;
-  animation: controlAnimation-5 35s infinite;
+  -webkit-animation: controlAnimation-5 40s infinite;
+  -o-animation: controlAnimation-5 40s infinite;
+  animation: controlAnimation-5 40s infinite;
 }
 
 .items-5.autoplay .item {
-  -webkit-animation: galleryAnimation-5 35s infinite;
-  -o-animation: galleryAnimation-5 35s infinite;
-  animation: galleryAnimation-5 35s infinite;
+  -webkit-animation: galleryAnimation-5 40s infinite;
+  -o-animation: galleryAnimation-5 40s infinite;
+  animation: galleryAnimation-5 40s infinite;
 }
 
 .items-5 .control-button:nth-of-type(1),
